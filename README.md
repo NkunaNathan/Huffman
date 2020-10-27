@@ -1,4 +1,6 @@
 # Huffman
+# code will be pushed in the next few months
+I apologize for the delay
 
 1 Description
 The American Standard Code for Information Exchange (ASCII) represents characters by a string of 7 bits.
